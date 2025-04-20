@@ -135,6 +135,7 @@ document.addEventListener('DOMContentLoaded', () => {
             typeRole(roles[currentRoleIndex], cycleRoles);
         }
     }
+    
 
     // 3. Navigation Link Hover Effects
     const navLinks = document.querySelectorAll('header nav ul li a');
